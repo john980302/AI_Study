@@ -367,4 +367,4 @@ plt.plot(st_gt_rates, label='Del rate')
 
 plt.legend()
 plt.savefig('graph' + suffix + '.png')
-# plt.show()
+plt.show()
